@@ -38,7 +38,7 @@ function LoginForm() {
         <Input
           id="password"
           type="password"
-          className="text-gray-900 mb-6"
+          className="text-gray-900"
           placeholder="Password"
           {...register("password", { required: "Password is required", minLength: { value: 6, message: "Password must be at least 6 characters" } })}
         />

@@ -1,5 +1,8 @@
 // import { useEffect } from "react";
 // import { io } from "socket.io-client";
+// import Login from "./pages/Login";
+// import SignUp from "./pages/SignUp";
+
 import Login from "./pages/Login";
 
 // import { Button } from "@/components/ui/button";
